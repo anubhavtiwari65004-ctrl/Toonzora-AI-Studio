@@ -1,0 +1,7 @@
+package.json
+vite.config.js
+index.html
+src/main.jsx
+src/App.jsx
+src/components/...
+src/pages/...
